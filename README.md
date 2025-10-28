@@ -1,5 +1,12 @@
 # London Tube Map
 
+<p align="center">
+  <img src="images/london_tube_map.png" 
+  alt="London Tube Map Banner" width="100%">
+</p>
+
+A lightweight Python implementation of the London Underground network.It loads Tube data from JSON, builds a graph representation of station connections, and computes the **shortest route** between any two stations.
+
 ## Project Structure
 
 ```
